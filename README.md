@@ -1,8 +1,6 @@
 # tensorMario
-@misc{gym-super-mario-bros,
-  author = {Christian Kauten},
-  howpublished = {GitHub},
-  title = {{S}uper {M}ario {B}ros for {O}pen{AI} {G}ym},
-  URL = {https://github.com/Kautenja/gym-super-mario-bros},
-  year = {2018},
-}
+
+Special library used to train Mario and his movements: gym-super-mario-bros
+Author: Christian Kauten,
+{S}uper {M}ario {B}ros for {O}pen{AI} {G}ym
+https://github.com/Kautenja/gym-super-mario-bros
